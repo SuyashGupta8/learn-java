@@ -1,4 +1,4 @@
-package org.learn.java;
+package org.learn.java.threads.example;
 
 /**
  * Hello world!

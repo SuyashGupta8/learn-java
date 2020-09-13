@@ -1,7 +1,8 @@
 //::::Notes:::::
-//:::Refer to 
+//:::Refer to https://docs.google.com/document/d/18nswzl436pUyQdE6c1Kt-m59nH7VRdNvhMA7SMCVpB4/edit?usp=sharing
 
-package org.learn.java;
+
+package org.learn.java.threads.example;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

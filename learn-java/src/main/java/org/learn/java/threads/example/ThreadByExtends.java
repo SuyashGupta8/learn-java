@@ -1,4 +1,4 @@
-package org.learn.java;
+package org.learn.java.threads.example;
 
 public class ThreadByExtends extends Thread{
     ThreadByExtends(String tName){
@@ -13,4 +13,5 @@ public class ThreadByExtends extends Thread{
         Thread t1 = new ThreadByExtends("thread by extend");
         t1.start();
     }
+    //By Extend
 }

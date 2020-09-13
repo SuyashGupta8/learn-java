@@ -12,7 +12,7 @@
 //7) There will be no common lock(object level lock) between two different object of same class
 //8) class level lock will be same for all objects
 
-package org.learn.java;
+package org.learn.java.threads.example;
 
 public class LockInThread {
 
